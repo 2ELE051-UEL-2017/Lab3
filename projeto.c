@@ -52,3 +52,8 @@ void array_copia(double a[], double b[], int numElementos)
 {
 	// Digite aqui o seu codigo do exercicio 7 sobre vetores
 }
+
+void vetor_soma(double c[], double a[], double b[], int numElementos)
+{
+	// Digite aqui o seu codigo do exercicio 8 sobre vetores
+}
