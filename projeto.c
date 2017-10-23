@@ -47,3 +47,8 @@ double array_media(double v[], int numElementos)
 	// Digite aqui o seu codigo do exercicio 6 sobre vetores
 	return 0.0;
 }
+
+void array_copia(double a[], double b[], int numElementos)
+{
+	// Digite aqui o seu codigo do exercicio 7 sobre vetores
+}

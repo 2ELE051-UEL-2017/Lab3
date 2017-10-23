@@ -10,6 +10,17 @@ TEST_GROUP(tests_array_inverte)
 {
 };
 
+TEST(tests_array_inverte, Teste0)
+{
+	double v[] = { 0.0 };
+	double vInvertido[] = { 0.0 };
+	double res[1];
+
+	array_inverte(res, v, 1);
+
+	VECTOR_DOUBLES_EQUAL(vInvertido, res, 1e-6, 1);
+}
+
 TEST(tests_array_inverte, Teste12)
 {
 	double v[] = { 1.0, 2.0 };

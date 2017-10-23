@@ -108,6 +108,9 @@
     <ClCompile Include="aux_test_functions.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="tests_array_copia.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CppUTest\CommandLineArguments.h">
