@@ -35,3 +35,9 @@ void array_inverte(double res[], double v[], int numElementos)
 {
 	// Digite aqui o seu codigo do exercicio 4 sobre vetores
 }
+
+int array_numNegativos(double v[], int numElementos)
+{
+	// Digite aqui o seu codigo do exercicio 5 sobre vetores
+	return 0;
+}
