@@ -220,6 +220,7 @@
     <ClCompile Include="tests_array_inverte.cpp" />
     <ClCompile Include="tests_array_max.cpp" />
     <ClCompile Include="tests_array_max2.cpp" />
+    <ClCompile Include="tests_array_media.cpp" />
     <ClCompile Include="tests_array_numnegativos.cpp" />
   </ItemGroup>
   <ItemGroup>

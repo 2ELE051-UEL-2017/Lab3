@@ -41,3 +41,9 @@ int array_numNegativos(double v[], int numElementos)
 	// Digite aqui o seu codigo do exercicio 5 sobre vetores
 	return 0;
 }
+
+double array_media(double v[], int numElementos)
+{
+	// Digite aqui o seu codigo do exercicio 6 sobre vetores
+	return 0.0;
+}
