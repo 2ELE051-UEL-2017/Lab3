@@ -63,3 +63,9 @@ double vetor_norma(double v[], int numElementos)
 	// Digite aqui o seu codigo do exercicio 9 sobre vetores
 	return 0.0;
 }
+
+double vetor_produtoEscalar(double a[], double b[], int numElementos)
+{
+	// Digite aqui o seu codigo do exercicio 10 sobre vetores
+	return 0.0;
+}
