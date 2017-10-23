@@ -30,3 +30,8 @@ double array_max2(double v[], int numElementos)
 	// Digite aqui o seu codigo do exercicio 3 sobre vetores
 	return 0.0;
 }
+
+void array_inverte(double res[], double v[], int numElementos)
+{
+	// Digite aqui o seu codigo do exercicio 4 sobre vetores
+}
