@@ -24,3 +24,9 @@ double array_max(double v[], int numElementos)
 
 	return s;
 }
+
+double array_max2(double v[], int numElementos)
+{
+	// Digite aqui o seu codigo do exercicio 3 sobre vetores
+	return 0.0;
+}

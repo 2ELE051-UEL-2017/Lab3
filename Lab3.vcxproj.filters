@@ -93,6 +93,9 @@
     <ClCompile Include="tests_array_max.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="tests_array_max2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CppUTest\CommandLineArguments.h">
