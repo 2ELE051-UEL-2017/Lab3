@@ -57,3 +57,9 @@ void vetor_soma(double c[], double a[], double b[], int numElementos)
 {
 	// Digite aqui o seu codigo do exercicio 8 sobre vetores
 }
+
+double vetor_norma(double v[], int numElementos)
+{
+	// Digite aqui o seu codigo do exercicio 9 sobre vetores
+	return 0.0;
+}
