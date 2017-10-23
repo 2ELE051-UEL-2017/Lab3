@@ -105,6 +105,9 @@
     <ClCompile Include="tests_array_media.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="aux_test_functions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CppUTest\CommandLineArguments.h">
@@ -187,6 +190,9 @@
     </ClInclude>
     <ClInclude Include="CppUTest\UtestMacros.h">
       <Filter>Header Files\CppUTest</Filter>
+    </ClInclude>
+    <ClInclude Include="aux_test_functions.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

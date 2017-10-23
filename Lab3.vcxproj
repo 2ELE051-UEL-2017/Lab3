@@ -151,6 +151,7 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="aux_test_functions.cpp" />
     <ClCompile Include="CppUTest\CommandLineArguments.cpp">
       <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</DeploymentContent>
     </ClCompile>
@@ -224,6 +225,7 @@
     <ClCompile Include="tests_array_numnegativos.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="aux_test_functions.h" />
     <ClInclude Include="CppUTest\CommandLineArguments.h">
       <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</DeploymentContent>
     </ClInclude>
