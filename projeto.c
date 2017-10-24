@@ -101,3 +101,9 @@ void matriz3x3_diferenca(double C[][3], double A[][3], double B[][3])
 {
 	// Digite aqui o seu codigo do exercicio 6 sobre matrizes	
 }
+
+double matriz3x3_traco(double A[][3])
+{
+	// Digite aqui o seu codigo do exercicio 7 sobre matrizes
+	return 0.0;
+}
