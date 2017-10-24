@@ -107,3 +107,9 @@ double matriz3x3_traco(double A[][3])
 	// Digite aqui o seu codigo do exercicio 7 sobre matrizes
 	return 0.0;
 }
+
+double matriz3x3_determinante(double A[][3])
+{
+	// Digite aqui o seu codigo do exercicio 8 sobre matrizes
+	return 0.0;
+}
