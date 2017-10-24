@@ -227,6 +227,7 @@
     <ClCompile Include="tests_matriz3x3_identidade.cpp" />
     <ClCompile Include="tests_matriz3x3_iguais.cpp" />
     <ClCompile Include="tests_matriz3x3_simetrica.cpp" />
+    <ClCompile Include="tests_matriz3x3_soma.cpp" />
     <ClCompile Include="tests_matriz3x3_transposta.cpp" />
     <ClCompile Include="tests_vetor_norma.cpp" />
     <ClCompile Include="tests_vetor_produtoescalar.cpp" />

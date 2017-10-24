@@ -88,5 +88,11 @@ void matriz3x3_transposta(double B[][3], double A[][3])
 
 int matriz3x3_simetrica(double A[][3])
 {
-	// Digite aqui o seu codigo do exercicio 4 sobre matrizes	
+	// Digite aqui o seu codigo do exercicio 4 sobre matrizes
+	return 0;
+}
+
+void matriz3x3_soma(double C[][3], double A[][3], double B[][3])
+{
+	// Digite aqui o seu codigo do exercicio 5 sobre matrizes	
 }
