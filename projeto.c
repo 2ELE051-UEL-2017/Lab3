@@ -74,3 +74,9 @@ void matriz3x3_identidade(double A[][3])
 {
 	// Digite aqui o seu codigo do exercicio 1 sobre matrizes
 }
+
+int matriz3x3_iguais(double A[][3], double B[][3])
+{
+	// Digite aqui o seu codigo do exercicio 2 sobre matrizes
+	return 0;
+}
