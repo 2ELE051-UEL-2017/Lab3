@@ -7,3 +7,12 @@ void VECTOR_DOUBLES_EQUAL(double expected[], double actual[], double tolerance, 
 	for (i = 0; i < numElementos; i++)
 		DOUBLES_EQUAL(expected[i], actual[i], tolerance);
 }
+
+void MATRIX_3X3_DOUBLES_EQUAL(double expected[][3], double actual[][3], double tolerance)
+{
+	int i, j;
+
+	for (i = 0; i < 3; i++)
+		for (j = 0; j < 3; j++)
+			DOUBLES_EQUAL(expected[i][j], actual[i][j], tolerance);
+}

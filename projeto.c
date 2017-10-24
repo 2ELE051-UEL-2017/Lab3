@@ -69,3 +69,8 @@ double vetor_produtoEscalar(double a[], double b[], int numElementos)
 	// Digite aqui o seu codigo do exercicio 10 sobre vetores
 	return 0.0;
 }
+
+void matriz3x3_identidade(double A[][3])
+{
+	// Digite aqui o seu codigo do exercicio 1 sobre matrizes
+}
