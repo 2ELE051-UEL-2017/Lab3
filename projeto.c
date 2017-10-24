@@ -85,3 +85,8 @@ void matriz3x3_transposta(double B[][3], double A[][3])
 {
 	// Digite aqui o seu codigo do exercicio 3 sobre matrizes
 }
+
+int matriz3x3_simetrica(double A[][3])
+{
+	// Digite aqui o seu codigo do exercicio 4 sobre matrizes	
+}
