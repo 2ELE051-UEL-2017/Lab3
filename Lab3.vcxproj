@@ -224,6 +224,7 @@
     <ClCompile Include="tests_array_max2.cpp" />
     <ClCompile Include="tests_array_media.cpp" />
     <ClCompile Include="tests_array_numnegativos.cpp" />
+    <ClCompile Include="tests_matriz3x3_diferenca.cpp" />
     <ClCompile Include="tests_matriz3x3_identidade.cpp" />
     <ClCompile Include="tests_matriz3x3_iguais.cpp" />
     <ClCompile Include="tests_matriz3x3_simetrica.cpp" />

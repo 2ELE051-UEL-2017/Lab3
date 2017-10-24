@@ -96,3 +96,8 @@ void matriz3x3_soma(double C[][3], double A[][3], double B[][3])
 {
 	// Digite aqui o seu codigo do exercicio 5 sobre matrizes	
 }
+
+void matriz3x3_diferenca(double C[][3], double A[][3], double B[][3])
+{
+	// Digite aqui o seu codigo do exercicio 6 sobre matrizes	
+}
