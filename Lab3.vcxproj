@@ -228,6 +228,7 @@
     <ClCompile Include="tests_matriz3x3_diferenca.cpp" />
     <ClCompile Include="tests_matriz3x3_identidade.cpp" />
     <ClCompile Include="tests_matriz3x3_iguais.cpp" />
+    <ClCompile Include="tests_matriz3x3_inversa.cpp" />
     <ClCompile Include="tests_matriz3x3_produto.cpp" />
     <ClCompile Include="tests_matriz3x3_produtoVetorColuna.cpp" />
     <ClCompile Include="tests_matriz3x3_simetrica.cpp" />

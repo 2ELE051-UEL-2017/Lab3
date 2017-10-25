@@ -123,3 +123,8 @@ void matriz3x3_produto(double C[][3], double A[][3], double B[][3])
 {
 	// Digite aqui o seu codigo do exercicio 10 sobre matrizes
 }
+
+void matriz3x3_inversa(double B[][3], double A[][3])
+{
+	// Digite aqui o seu codigo do exercicio 11 sobre matrizes
+}
