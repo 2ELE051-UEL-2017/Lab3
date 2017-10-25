@@ -118,3 +118,8 @@ void matriz3x3_produtoVetorColuna(double C[][1], double A[][3], double B[][1])
 {
 	// Digite aqui o seu codigo do exercicio 9 sobre matrizes
 }
+
+void matriz3x3_produto(double C[][3], double A[][3], double B[][3])
+{
+	// Digite aqui o seu codigo do exercicio 10 sobre matrizes
+}
