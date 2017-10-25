@@ -156,6 +156,9 @@
     <ClCompile Include="tests_matriz3x3_inversa.cpp">
       <Filter>Source Files\Tests</Filter>
     </ClCompile>
+    <ClCompile Include="tests_resolvesistemalinear.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CppUTest\CommandLineArguments.h">

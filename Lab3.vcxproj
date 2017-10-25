@@ -235,6 +235,7 @@
     <ClCompile Include="tests_matriz3x3_soma.cpp" />
     <ClCompile Include="tests_matriz3x3_traco.cpp" />
     <ClCompile Include="tests_matriz3x3_transposta.cpp" />
+    <ClCompile Include="tests_resolvesistemalinear.cpp" />
     <ClCompile Include="tests_vetor_norma.cpp" />
     <ClCompile Include="tests_vetor_produtoescalar.cpp" />
     <ClCompile Include="tests_vetor_soma.cpp" />

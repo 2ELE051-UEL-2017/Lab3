@@ -128,3 +128,8 @@ void matriz3x3_inversa(double B[][3], double A[][3])
 {
 	// Digite aqui o seu codigo do exercicio 11 sobre matrizes
 }
+
+void resolveSistemaLinear(double x[][1], double A[][3], double B[][1])
+{
+	// Digite aqui o seu codigo do exercicio 12 sobre matrizes
+}
