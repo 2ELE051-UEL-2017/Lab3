@@ -16,3 +16,11 @@ void MATRIX_3X3_DOUBLES_EQUAL(double expected[][3], double actual[][3], double t
 		for (j = 0; j < 3; j++)
 			DOUBLES_EQUAL(expected[i][j], actual[i][j], tolerance);
 }
+
+void COLUMN_VECTOR_DOUBLES_EQUAL(double expected[][1], double actual[][1], double tolerance, int numElementos)
+{
+	int i;
+
+	for (i = 0; i < numElementos; i++)
+		DOUBLES_EQUAL(expected[i][0], actual[i][0], tolerance);
+}

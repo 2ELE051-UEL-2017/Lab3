@@ -19,6 +19,9 @@
     <Filter Include="Header Files\CppUTest">
       <UniqueIdentifier>{3cc7cedf-281a-4edf-9eb2-8e85946d2a88}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Tests">
+      <UniqueIdentifier>{b5900d0b-c9e5-4fe4-befe-7277a88eed0d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
@@ -87,62 +90,65 @@
     <ClCompile Include="CppUTest\UtestPlatform.cpp">
       <Filter>Source Files\CppUTest</Filter>
     </ClCompile>
-    <ClCompile Include="tests_array_iguais.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="tests_array_max.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="tests_array_max2.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="tests_array_inverte.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="tests_array_numnegativos.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="tests_array_media.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="aux_test_functions.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Tests</Filter>
     </ClCompile>
     <ClCompile Include="tests_array_copia.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Tests</Filter>
     </ClCompile>
-    <ClCompile Include="tests_vetor_soma.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="tests_array_iguais.cpp">
+      <Filter>Source Files\Tests</Filter>
     </ClCompile>
-    <ClCompile Include="tests_vetor_norma.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="tests_array_inverte.cpp">
+      <Filter>Source Files\Tests</Filter>
     </ClCompile>
-    <ClCompile Include="tests_vetor_produtoescalar.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="tests_array_max.cpp">
+      <Filter>Source Files\Tests</Filter>
     </ClCompile>
-    <ClCompile Include="tests_matriz3x3_identidade.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="tests_array_max2.cpp">
+      <Filter>Source Files\Tests</Filter>
     </ClCompile>
-    <ClCompile Include="tests_matriz3x3_iguais.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="tests_array_media.cpp">
+      <Filter>Source Files\Tests</Filter>
     </ClCompile>
-    <ClCompile Include="tests_matriz3x3_transposta.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="tests_matriz3x3_simetrica.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="tests_matriz3x3_soma.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="tests_matriz3x3_diferenca.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="tests_matriz3x3_traco.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="tests_array_numnegativos.cpp">
+      <Filter>Source Files\Tests</Filter>
     </ClCompile>
     <ClCompile Include="tests_matriz3x3_determinante.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="tests_matriz3x3_diferenca.cpp">
+      <Filter>Source Files\Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="tests_matriz3x3_identidade.cpp">
+      <Filter>Source Files\Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="tests_matriz3x3_iguais.cpp">
+      <Filter>Source Files\Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="tests_matriz3x3_simetrica.cpp">
+      <Filter>Source Files\Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="tests_matriz3x3_soma.cpp">
+      <Filter>Source Files\Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="tests_matriz3x3_traco.cpp">
+      <Filter>Source Files\Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="tests_matriz3x3_transposta.cpp">
+      <Filter>Source Files\Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="tests_vetor_norma.cpp">
+      <Filter>Source Files\Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="tests_vetor_produtoescalar.cpp">
+      <Filter>Source Files\Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="tests_vetor_soma.cpp">
+      <Filter>Source Files\Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="tests_matriz3x3_produtoVetorColuna.cpp">
+      <Filter>Source Files\Tests</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
